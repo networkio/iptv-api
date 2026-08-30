@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-30 06:12:47,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-08-30 21:09:21,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -208,6 +208,7 @@ CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 CETV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
 CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
 CETV-3,http://iptv.666230.xyz/iptv/jsyd.php/G_CETV-3
+CETV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
@@ -420,6 +421,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 风云音乐,https://t.freetv.fun/live/cctvfeng-yun-yin-le.php
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/index.m3u8
 
 🪁动画频道,#genre#
 卡酷动画,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
