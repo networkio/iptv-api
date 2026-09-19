@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260918234616 +0800">
+<tv date="20260919133629 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8288,6 +8288,42 @@
 	</programme>
 	<programme channel="优漫卡通" start="20260921010000 +0800" stop="20260921050000 +0800">
 		<title lang="zh">卡卡虎大冒险</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921050000 +0800" stop="20260921060000 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921060000 +0800" stop="20260921070000 +0800">
+		<title lang="zh">猪猪侠超星五灵侠</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921070000 +0800" stop="20260921080000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921080000 +0800" stop="20260921081500 +0800">
+		<title lang="zh">宠物旅店</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921081500 +0800" stop="20260921084500 +0800">
+		<title lang="zh">奶龙之奇妙冒险</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921084500 +0800" stop="20260921090000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸欢乐亲子营</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921090000 +0800" stop="20260921100000 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921100000 +0800" stop="20260921110000 +0800">
+		<title lang="zh">猪猪侠超星五灵侠</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921110000 +0800" stop="20260921120000 +0800">
+		<title lang="zh">喜羊羊与灰太狼之奇幻天空岛</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921120000 +0800" stop="20260921123000 +0800">
+		<title lang="zh">奇妙萌可</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921123000 +0800" stop="20260921125500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260921125500 +0800" stop="20260921135500 +0800">
+		<title lang="zh">精灵梦叶罗丽</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
